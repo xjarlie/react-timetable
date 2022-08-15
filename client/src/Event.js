@@ -47,4 +47,6 @@ class Event extends React.Component {
 
 }
 
+console.log("yo");
+
 export default Event;
